@@ -11,7 +11,8 @@ Algoritmo Promedio
 		leer dato;
 		acum<-acum+dato;
 	FinPara
-	
+	//Mi coment Manuel Raya
+	//vamos a verlo
 	prom<- acum/n;
 	
 	Escribir "El promedio es: ",prom;
